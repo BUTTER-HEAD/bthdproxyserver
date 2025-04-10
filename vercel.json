@@ -1,0 +1,8 @@
+ {
+   "rewrites": [
+     {
+       "source": "/:path*",
+       "destination": "https://cors-anywhere.herokuapp.com/:path*"
+     }
+   ]
+ }
